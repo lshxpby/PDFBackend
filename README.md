@@ -21,4 +21,4 @@ pip install fastapi pymupdf python-dotenv transformers faiss-ct langchain==2.2.2
 ```
 You can run the Backend Service using the following command
 
-uvicorn main:app --reload
+```uvicorn main:app --reload```
