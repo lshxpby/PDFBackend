@@ -9,7 +9,6 @@ To get started with PDFBackend, follow these steps:
 1. Create a `.env` file in the root directory of the project.
 2. Paste the following line into the `.env` file to set up your Hugging Face API token:
 HUGGINGFACEHUB_API_TOKEN=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
-
 3. Ensure you have Python 3.9.13 installed.
 
 ## Installation
